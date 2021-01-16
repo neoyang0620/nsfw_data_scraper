@@ -8,10 +8,8 @@ N=2000
 
 declare -a class_names=(
 	"neutral"
-	"drawings"
 	"sexy"
 	"porn"
-	"hentai"
 	)
 
 
